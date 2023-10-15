@@ -1,0 +1,70 @@
+{
+  "weddingServices": [
+    {
+      "id": 1,
+      "name": "Elegant Wedding Venue",
+      "image": "https://i.ibb.co/WWSppML/elegant.jpg",
+      "price": "$5,000",
+      "description": "A luxurious wedding venue with stunning décor and amenities.",
+      "button": {
+        "text": "Book Venue",
+        "link": "https://example.com/book-elegant-venue"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Full-Service Wedding Planning",
+      "image": "https://i.ibb.co/Wvk1fCK/planning.jpg",
+      "price": "$7,500",
+      "description": "Comprehensive wedding planning, from venue selection to day-of coordination.",
+      "button": {
+        "text": "Hire Planner",
+        "link": "https://example.com/hire-wedding-planner"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Wedding Photography Package",
+      "image": "https://i.ibb.co/x1ZMcdS/photography.jpg",
+      "price": "$2,000",
+      "description": "Professional wedding photography to capture your special day.",
+      "button": {
+        "text": "Book Photographer",
+        "link": "https://example.com/book-wedding-photography"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Catering and Banquet Service",
+      "image": "https://i.ibb.co/VvRHRWd/catering.jpg",
+      "price": "$4,500",
+      "description": "Exquisite catering and banquet service for your wedding reception.",
+      "button": {
+        "text": "Catering Inquiry",
+        "link": "https://example.com/catering-inquiry"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Floral Decoration Package",
+      "image": "https://i.ibb.co/Mst3fGM/floral.jpg",
+      "price": "$1,500",
+      "description": "Beautiful floral arrangements to adorn your wedding venue.",
+      "button": {
+        "text": "Order Flowers",
+        "link": "https://example.com/order-wedding-flowers"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Live Band Entertainment",
+      "image": "https://i.ibb.co/DgtMNgf/band.jpg",
+      "price": "$3,000",
+      "description": "Live band performance to entertain your guests at the reception.",
+      "button": {
+        "text": "Book Band",
+        "link": "https://example.com/book-live-band"
+      }
+    }
+  ]
+}
