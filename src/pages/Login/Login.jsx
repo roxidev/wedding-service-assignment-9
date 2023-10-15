@@ -21,7 +21,7 @@ const Login = () => {
     const passwordRegex =
       /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{6,}$/;
 
-    // console.log(e.currentTarget);
+    console.log(e.currentTarget);
     // const form = new FormData(e.currentTarget);
     const email = e.target['email']['value'];
     const password = e.target['password']['value'];
